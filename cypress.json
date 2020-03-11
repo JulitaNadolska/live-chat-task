@@ -1,0 +1,7 @@
+{
+    "env": {
+        "username": "m.debski+frontend_tests@livechatinc.com",
+        "password": "test1@3$"
+    },
+    "chromeWebSecurity": false
+}
